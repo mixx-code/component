@@ -1,0 +1,26 @@
+#container{
+    position: relative;
+    width: 317px;
+    height: 218px;
+    background: linear-gradient(to bottom, #32A9FF, #C3EDFF);
+    color: white;
+    border-radius: 17px;
+    padding: 10px;
+}
+.cuaca{
+    display: flex;
+    justify-items: center;
+}
+
+.ucapan{
+    font-size: 32px;
+}
+.teg{
+    font-size: 18px;
+    border-bottom: dashed #EFEFEF ;
+    width: 80%
+}
+.jenis-cuaca{
+    padding: 0px;
+    margin-top: 30px;
+}
